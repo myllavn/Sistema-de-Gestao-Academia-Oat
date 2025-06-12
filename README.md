@@ -1,0 +1,1 @@
+Execute primeiramente a "TelaLogin".
